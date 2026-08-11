@@ -1,0 +1,17 @@
+flask
+flask-cors
+pandas
+numpy
+pandas_market_calendars
+yfinance
+requests
+python-dateutil
+python-dotenv
+pymysql
+torch
+transformers
+nltk
+sympy
+tensorflow
+scikit-learn
+ta

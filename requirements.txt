@@ -1,0 +1,14 @@
+flask
+pandas
+numpy
+pandas_market_calendars
+yfinance
+requests
+python-dateutil
+torch
+transformers
+nltk
+sympy
+tensorflow
+scikit-learn
+ta
