@@ -84,8 +84,8 @@ Best result: **LSTM, 60-day sequence length, Close price input** — MAE 116.82,
 All backend paths are resolved relative to the script's own folder (`os.path.dirname(__file__)`), so run these commands **from inside `mobile_application/backend/`** — not the repo root.
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>/mobile_application/backend
+git clone https://github.com/SaiKeerthana-2000/nifty50-stock-prediction-deeplearning.git
+cd nifty50-stock-prediction-deeplearning/mobile_application/backend
 
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
