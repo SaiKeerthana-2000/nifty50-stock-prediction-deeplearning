@@ -66,7 +66,7 @@ Several architectures were tested; only the best-performing one ships in the app
 
 RNN · LSTM (unidirectional, stacked, bidirectional) · Transformer (encoder-only) · Hybrid LSTM+Transformer.
 
-Best result: **LSTM, 60-day sequence length, Close price input** — MAE 116.82, RMSE 167.68. This is the model used in the app.
+Best result: **LSTM, 60-day sequence length, Close price input** — MAE 116.82, RMSE 167.69. This is the model used in the app.
 
 ## ⚙️ How the Backend Works
 
