@@ -7,7 +7,7 @@ A deep learning–based project that predicts the next day's NIFTY 50 closing pr
 ## 👥 Team Members
 
 - **Padala Kalyani** — padalakalyani66@gmail.com
-- **Addada Sai Keerthana** — saikeerthana2720@gmail.com
+- **Addada Sai Keerthana** — 2mailsaikeerthana@gmail.com
 
 ---
 
@@ -230,7 +230,7 @@ Before building for release, double check `API_BASE_URL` in your `.env` points a
 ## 📫 Contact
 
 - padalakalyani66@gmail.com
-- saikeerthana2720@gmail.com
+- 2mailsaikeerthana@gmail.com
 
 ## 📄 License
 
